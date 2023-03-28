@@ -1,0 +1,23 @@
+      body {
+        background-color: #FFF6DA;
+        color: #042F4B;
+        margin: 20px 25%;
+      }
+      a {
+        color: #ED1250;
+      }
+      hr {
+        width: 5%;
+        border-style: none;
+        border-top: dotted #FE6244 5px;        
+      }
+      img {
+        border-radius: 50%;
+        width: 100%;
+      }
+      h1 {
+        color: #7149C6;
+      }
+      h3 {
+        color: #B8621B;
+      }
